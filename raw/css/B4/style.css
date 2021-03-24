@@ -1,0 +1,72 @@
+body{
+  background-color:   #0e0e0e;
+}
+.error{
+  color: aliceblue;
+  text-align: center;
+  font-size: 50px;
+  margin: 18%;
+  font-family: 'Abril Fatface', cursive;
+}
+
+.contain{
+  background: #C33764;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #1D2671, #C33764);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #1D2671, #C33764); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */    
+}
+
+.jumbo{
+  background: #652b7362;  /* fallback for old browsers */
+  background: linear-gradient(to right, #3b3e3f60, #0b478091), url(https://www.capitanofertas.com/images/articulos/500/570/1_570.jpg); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */  
+  background: linear-gradient(to right, #3a41425b, #2b3c732f), url(https://www.capitanofertas.com/images/articulos/500/570/1_570.jpg); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */  
+  background-size: cover;
+  background-attachment: scroll;
+  position: relative;
+  color: aliceblue;
+  text-align: center;
+  font-family: 'Berkshire Swash', cursive;
+
+}
+
+.img{
+  float: initial;
+  text-align: center;
+  width: 25%;
+  height: 20%;
+  max-width: 100%; 
+  margin-top: 19px;
+}
+
+.card{
+  background: #000428;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #004e92d8, #000428e7);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #004e92ce, #000428e1); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  text-align: justify;
+  color: aliceblue;  
+}
+
+
+p{
+  padding: 35px;
+  font-size: 18px;
+  font-family: 'Newsreader', serif;
+  color: aliceblue;
+}
+
+h5{
+  text-align: center;
+  font-family: 'Berkshire Swash', cursive;
+  font-size: 40px;
+}
+
+small{
+  color:aliceblue;
+}
+
+.navi{
+  background: rgba(0,0,0,0.700) !important;
+
+}
+.top-nav-collapse{
+  background: rgba(0,0,0,0.700) !important;
+}
